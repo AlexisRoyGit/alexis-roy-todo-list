@@ -1,0 +1,43 @@
+input, label {
+    display: block;
+    width: 90%;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.search {
+    width: 50%;
+    margin: 0 auto;
+}
+
+button {
+    border-radius: 10px;
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+    padding: 10px;
+    background-color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    color: white;
+    background-color: black;
+}
+
+textarea{
+    resize: none;
+    border-radius: 5px;
+}
+
+.titleform {
+   margin-top: 4rem;
+}
+
+form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+input, textarea {
+    box-shadow: 6px 4px 15px grey;
+}

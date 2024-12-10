@@ -1,0 +1,33 @@
+.todo {
+    display: inline-block;
+    width: 25%;
+    background: linear-gradient(#005aa7, #fffde4);
+    box-shadow: 5px 5px 10px black;
+    border-radius: 35px 10px 10px 10px; 
+    margin: 20px 10px;
+}
+
+h3 {
+    text-decoration: underline;
+    text-align: center;
+    font-style: italic;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    background-color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    color: white;
+    background-color: black;
+}
+
+.author {
+    text-align: end;
+    margin-right: 5px;
+}
